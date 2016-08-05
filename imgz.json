@@ -1,0 +1,20 @@
+[
+  {
+    "at":"-1",
+    "for":"-1",
+    "width":"400",
+    "imgDur":5000,
+    "imgz":[
+      {
+        "url":"https://adstrategy.files.wordpress.com/2010/10/bk-ad1.jpg"
+      },
+      {
+        "url":"http://www.cameronmoll.com/img/pics/dyson-ad.jpg",
+        "imgDur":3000
+      },
+      {
+        "url":"http://st1.bgr.in/wp-content/uploads/2011/08/Micromax-ad.jpg"
+      }
+    ]
+  }
+]
